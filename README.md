@@ -55,9 +55,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [Stone-Paper-Scissors](https://github.com/shree-VishnuA/Stone-Paper-Scissors) | Interactive game using JS, CSS and HTML. |
-| [Prime-Video-Clone](https://github.com/shree-VishnuA/Prime-Video-Clone) |A responsive clone of Amazon Primevideo using only HTML and CSS. |
-| [E_site](https://github.com/shreevishnua/E_site) | A dynamic frontend project for e-content hosting. |
+| [Stone-Paper-Scissors](https://github.com/Shree-VishnuA/Stone-Paper-Scissors) | Interactive game using JS, CSS and HTML. |
+| [Prime-Video-Clone](https://github.com/Shree-VishnuA/Prime-Video-Clone) |A responsive clone of Amazon Primevideo using only HTML and CSS. |
+| [first-html-website](https://github.com/Shree-VishnuA/E_site) | Just a start for a massive journey |
 
 ---
 
@@ -65,7 +65,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [Yukthi](https://github.com/shreevishnua/yukthi) | Contributed to a community event management platform, originally by [Deekshigowda08](https://github.com/Deekshigowda08/yukthi). |
+| [Yukthi](https://github.com/Shree-VishnuA/yukthi) | Contributed to a community event management platform, originally by [akashr206](https://github.com/akashr206/yukthi). |
+| [MacroZ](https://github.com/Shree-VishnuA/MacroZ) | AI powered DSA learning platform, originally by [akashr206](https://github.com/akashr206/MacroZ). |
+
 
 ---
 
