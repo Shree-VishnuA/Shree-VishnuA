@@ -65,7 +65,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [Yukthi](https://github.com/Shree-VishnuA/yukthi) | Contributed to a community event management platform, originally by [akashr206](https://github.com/akashr206/yukthi). |
+| [Vidhur](https://github.com/Shree-VishnuA/Vidhur) |An AI powered IIT-JEE tutor which got selected for an all India Edge AI hackathon conducted by Qualcomm, originally by [akashr206](https://github.com/akashr206/Vidhur). |
 | [MacroZ](https://github.com/Shree-VishnuA/MacroZ) | AI powered DSA learning platform, originally by [akashr206](https://github.com/akashr206/MacroZ). |
 
 
